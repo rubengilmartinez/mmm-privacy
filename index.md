@@ -4,9 +4,9 @@ title: MMM — Política de privacidad / Privacy policy
 
 # MMM — Política de privacidad
 
-*Última actualización: 17 de octubre de 2026*
+*Última actualización: 19 de octubre de 2026*
 
-MMM es una app para Android que bloquea Reels en Instagram, del todo o a partir de unos minutos al día. Esta política explica qué datos trata la app. En resumen: **MMM no recoge, no envía y no comparte ningún dato personal.** Todo ocurre en tu móvil.
+MMM es una app para Android que limita Instagram, TikTok, YouTube y Facebook, o solo sus Reels y Shorts, del todo o a partir de unos minutos al día. Esta política explica qué datos trata la app. En resumen: **MMM no recoge, no envía y no comparte ningún dato personal.** Todo ocurre en tu móvil.
 
 Responsable: Rubén Gil Martínez, ruben.gilm.upct@gmail.com.
 
@@ -14,19 +14,20 @@ Responsable: Rubén Gil Martínez, ruben.gilm.upct@gmail.com.
 
 ### Servicio de accesibilidad
 
-MMM usa el servicio de accesibilidad de Android para saber cuándo abres Reels y sacarte de ahí. Antes de activarlo, la app te muestra un aviso con esta información y te pide que lo aceptes.
+MMM usa el servicio de accesibilidad de Android para saber cuál de esas apps tienes abierta y sacarte de ella cuando toca. Antes de activarlo, la app te muestra un aviso con esta información y te pide que lo aceptes.
 
-- **Qué observa:** solo la app de Instagram. Reconoce la pantalla de Reels por los identificadores internos de sus vistas (cómo está construida la app), no por su contenido. **No lee textos, mensajes, nombres, fotos ni vídeos**, ni de Instagram ni de ninguna otra app.
-- **Qué hace:** cuando toca bloquear, pulsa «atrás» por ti y muestra la pantalla de bloqueo de MMM. Cuenta los minutos que pasas en Reels para el bloqueo temporal.
-- **Reels enviados por mensaje:** si abres un reel que te han enviado en un chat, puedes verlo. Para saber si deslizas a otro reel, MMM lee la posición del reel en pantalla (un número), nada más.
+- **Qué observa:** solo Instagram, TikTok, YouTube y Facebook. Sabe cuál de ellas está en pantalla y reconoce Reels y Shorts por los identificadores internos de sus vistas (cómo está construida la app), no por su contenido. **No lee textos, mensajes, nombres, fotos ni vídeos**, ni de esas apps ni de ninguna otra.
+- **Qué hace:** cuando toca bloquear, te lleva a la pantalla de inicio (si la app está bloqueada) o pulsa «atrás» por ti (en Reels y Shorts), y muestra la pantalla de bloqueo de MMM. Cuenta los minutos que pasas en cada app y en Reels y Shorts para los límites diarios.
+- **Reels de Facebook:** Facebook no permite reconocer su pantalla de Reels, así que, solo si limitas sus Reels, MMM mira cómo se desliza la pantalla: cuánto se mueve y cuántos elementos quedan a la vista (números). Así distingue el paso de un vídeo a pantalla completa al siguiente.
+- **Reels enviados por mensaje:** si abres un reel que te han enviado en un chat de Instagram, puedes verlo. Para saber si deslizas a otro reel, MMM lee la posición del reel en pantalla (un número), nada más.
 - **Ventana de presencia (solo móviles Xiaomi, Redmi y POCO):** estos móviles congelan las apps que consideran en segundo plano, y MMM dejaría de bloquear. Para evitarlo, mientras el servicio está activo, MMM mantiene una ventana invisible de 1 píxel. No muestra nada, no recibe toques y no lee nada.
 
 ### Qué guarda, y dónde
 
 Solo en tu móvil, en el almacenamiento privado de la app:
 
-- el modo de bloqueo que elegiste, tu límite diario y cuándo cambiaste de modo;
-- los minutos que llevas hoy en Reels;
+- las reglas que elegiste para cada app, sus límites diarios y cuándo las cambiaste;
+- los minutos que llevas hoy en cada app y en Reels y Shorts;
 - en qué paso de la configuración estás (si aceptaste el aviso, por ejemplo);
 - la última respuesta de Google Play sobre si tu suscripción está activa.
 
@@ -59,9 +60,9 @@ ruben.gilm.upct@gmail.com
 
 # MMM — Privacy policy
 
-*Last updated: 17 October 2026*
+*Last updated: 19 October 2026*
 
-MMM is an Android app that blocks Reels in Instagram, completely or after a few minutes a day. This policy explains what data the app handles. In short: **MMM does not collect, send or share any personal data.** Everything happens on your phone.
+MMM is an Android app that limits Instagram, TikTok, YouTube and Facebook, or just their Reels and Shorts, completely or after a few minutes a day. This policy explains what data the app handles. In short: **MMM does not collect, send or share any personal data.** Everything happens on your phone.
 
 Controller: Rubén Gil Martínez, ruben.gilm.upct@gmail.com.
 
@@ -69,19 +70,20 @@ Controller: Rubén Gil Martínez, ruben.gilm.upct@gmail.com.
 
 ### Accessibility service
 
-MMM uses Android's accessibility service to know when you open Reels and take you out. Before you turn it on, the app shows you a notice with this information and asks you to accept it.
+MMM uses Android's accessibility service to know which of those apps you have open and take you out of it when it is time. Before you turn it on, the app shows you a notice with this information and asks you to accept it.
 
-- **What it looks at:** only the Instagram app. It recognises the Reels screen by the internal identifiers of its views (how the app is built), not by its content. **It does not read text, messages, names, photos or videos**, in Instagram or any other app.
-- **What it does:** when it is time to block, it presses Back for you and shows MMM's block screen. It counts the minutes you spend in Reels for the time limit.
-- **Reels sent in a message:** if you open a reel someone sent you in a chat, you can watch it. To know whether you swipe to another reel, MMM reads the position of the reel on screen (a number), nothing else.
+- **What it looks at:** only Instagram, TikTok, YouTube and Facebook. It knows which of them is on screen, and recognises Reels and Shorts by the internal identifiers of their views (how the app is built), not by their content. **It does not read text, messages, names, photos or videos**, in those apps or any other.
+- **What it does:** when it is time to block, it takes you to the home screen (if the app is blocked) or presses Back for you (for Reels and Shorts), and shows MMM's block screen. It counts the minutes you spend in each app and in Reels and Shorts for the daily limits.
+- **Facebook Reels:** Facebook does not let its Reels screen be recognised, so, only if you limit its Reels, MMM looks at how the screen scrolls: how far it moves and how many items are left in view (numbers). That tells the swipe from one full-screen video to the next.
+- **Reels sent in a message:** if you open a reel someone sent you in an Instagram chat, you can watch it. To know whether you swipe to another reel, MMM reads the position of the reel on screen (a number), nothing else.
 - **Presence window (Xiaomi, Redmi and POCO phones only):** these phones freeze apps they consider to be in the background, which would stop MMM from blocking. To prevent it, while the service is on, MMM keeps an invisible 1-pixel window. It shows nothing, receives no touches and reads nothing.
 
 ### What it keeps, and where
 
 Only on your phone, in the app's private storage:
 
-- the block mode you chose, your daily limit and when you changed mode;
-- the minutes you have spent in Reels today;
+- the rules you chose for each app, their daily limits and when you changed them;
+- the minutes you have spent today in each app and in Reels and Shorts;
 - where you are in the setup (whether you accepted the notice, for example);
 - Google Play's last answer on whether your subscription is active.
 
